@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitnessme
 - 👀 I’m interested in ... in almost everything
-- 🌱 I’m currently learning ... JavaScript!
+- 🌱 I’m currently learning ... Event Handling!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
