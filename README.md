@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @whitnessme
+- 👋 Hi, I’m Whit Minson!
 - 👀 I’m interested in ... in almost everything
-- 🌱 I’m currently working on my first project!
+- 🌱 I’m currently working on my capstone project for App Academy! 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... whitnessprints@gmail.com
 
 <!---
 whitnessme/whitnessme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
