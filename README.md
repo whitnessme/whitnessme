@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Whit Minson!
-- 👀 I’m interested in ... in almost everything
-- 🌱 I’m currently working on my capstone project for App Academy! 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... whitnessprints@gmail.com
+<h1 align="center">💻 Hello, I'm Whitney! 💻</h1>
+<h4 align="center">Full-Stack Software Engineer | Graphic Designer | Printmaker</h4>
 
-# Languages & Tools
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whitnessme&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whitnessme" /> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/whitneylynnminson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitneylynnminson" height="30" width="40" /></a>
+</p>
+
+--------------------------------------------------------------------------------------------
+
+<p align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=whitnessme&theme=tokyonight&count_private=true&show_icons=true" />
+</p>
+
+### Languages & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,6 +39,9 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<p align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitnessme&layout=compact" />
+</p>
 <!---
 whitnessme/whitnessme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
