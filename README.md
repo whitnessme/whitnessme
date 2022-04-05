@@ -1,6 +1,8 @@
+<p align="center">
+ <img class="img" src="https://media-exp1.licdn.com/dms/image/C5616AQE6cArXDln1JA/profile-displaybackgroundimage-shrink_350_1400/0/1648673689077?e=1654732800&v=beta&t=rYMLMhNSTVqjBHhE4IOQoRmA0U_vhcgDRXaEnpl3CgM" />
+</p>
 <h1 align="center">💻 Hello, I'm Whitney! 💻</h1>
 <h4 align="center">Full-Stack Software Engineer | Graphic Designer | Printmaker</h4>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whitnessme&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whitnessme" /> </p>
 
 <h3 align="center">Connect with me:</h3>
