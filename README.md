@@ -3,11 +3,9 @@
 </p>
 <h1 align="center">💻 Hello, I'm Whitney! 💻</h1>
 <h4 align="center">Full-Stack Software Engineer | Graphic Designer | Printmaker</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whitnessme&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whitnessme" /> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/whitneylynnminson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitneylynnminson" height="30" width="40" /></a>
+ <img src="https://komarev.com/ghpvc/?username=whitnessme&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="whitnessme" />
+<a href="https://www.linkedin.com/in/whitneylynnminson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 --------------------------------------------------------------------------------------------
