@@ -1,5 +1,5 @@
 <p align="center">
- <img class="img" src="https://media-exp1.licdn.com/dms/image/C5616AQE6cArXDln1JA/profile-displaybackgroundimage-shrink_350_1400/0/1648673689077?e=1654732800&v=beta&t=rYMLMhNSTVqjBHhE4IOQoRmA0U_vhcgDRXaEnpl3CgM" />
+ <img class="img" src="https://user-images.githubusercontent.com/89945390/176724133-d0b6e685-4985-4ad0-8198-44a79d513c36.png" />
 </p>
 <h1 align="center">💻 Hello, I'm Whit! 💻</h1>
 <h4 align="center">Full-Stack Software Engineer | Graphic Designer | Printmaker</h4>
