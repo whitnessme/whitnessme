@@ -2,7 +2,7 @@
  <img class="img" src="https://user-images.githubusercontent.com/89945390/176724133-d0b6e685-4985-4ad0-8198-44a79d513c36.png" />
 </p>
 <h1 align="center">💻 Hello, I'm Whit! 💻</h1>
-<h3 align="center">Full-Stack Software Engineer | Graphic Designer | Printmaker</h4>
+<h3 align="center">Full-Stack Software Engineer | Graphic Designer | Artist | Printmaker</h4>
 <p align="center">🖱 Want to see some of my software engineering work? Visit my <a href="https://whitnessme.github.io/">portfolio site!</a></p>
 <p align="center">👨🏻‍🎨 Want to see some of my art? (like the above header!) Visit my <a href="https://www.instagram.com/whitnessprints/?hl=en">Instagram!</a></p>
 <p align="center">💸 Want to support me and buy some art? Email me or visit my <a href="https://www.redbubble.com/people/whitww/shop">Redbubble!</a></p>
